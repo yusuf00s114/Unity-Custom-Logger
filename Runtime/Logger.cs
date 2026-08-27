@@ -32,8 +32,8 @@ public static class Logger
         }
         else
         {
-            Debug.LogError("Logger: Could not find 'DefaultLogConfig' in Resources!\n" +
-                           "Please create a LoggerConfiguration asset and" +
+            Debug.LogError("Logger: Could not find 'DefaultLoggerController' in Resources!\n" +
+                           "Please create a LoggerController asset and" +
                            " place it in the Resources folder with the name 'DefaultLoggerController'.");
         }
 
