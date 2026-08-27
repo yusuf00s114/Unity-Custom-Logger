@@ -1,0 +1,11 @@
+{
+  "name": "com.yusufshabanov.logger",
+  "version": "1.0.0",
+  "displayName": "Logger",
+  "description": "Logger for Unity.",
+  "unity": "6.3",
+  "author": {
+    "name": "Yusuf Shabanov",
+    "email": "yusuf00s114@gmail.com"
+  }
+}
